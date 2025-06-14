@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+
+    span#hamburger {display: none;}
+
+    menu {display: block;}
+
+    menu ul {
+        text-align: left;
+        padding-left: 5px;
+    }
+
+    menu li {display: inline-block;
+            padding-top: 20px;   
+            margin-left: 0px;
+    }
+
+    article{
+        width: 700px;
+       
+    }
+}
