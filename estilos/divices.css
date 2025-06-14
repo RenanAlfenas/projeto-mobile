@@ -4,7 +4,7 @@
 
     span#hamburger {display: none;}
 
-    menu {display: block;}
+    menu {display: block !important;}
 
     menu ul {
         text-align: left;
